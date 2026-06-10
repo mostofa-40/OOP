@@ -1,4 +1,4 @@
-// Problem 20 : Power Utility Energy Billing System
+// Power Utility Energy Billing System
 
 // --- Core Implementation ---
 
