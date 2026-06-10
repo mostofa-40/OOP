@@ -1,4 +1,4 @@
-// Problem 5: University Course Registration System
+// University Course Registration System
 
 // --- Core Implementation ---
 
