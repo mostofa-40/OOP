@@ -1,4 +1,4 @@
-// Problem 6: Transport Vehicle Fare Calculation System
+// Transport Vehicle Fare Calculation System
 
 // --- Core Implementation ---
 
