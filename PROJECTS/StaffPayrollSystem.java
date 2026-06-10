@@ -1,4 +1,4 @@
-// Problem 15 : University Staff Payroll & Publication System
+// University Staff Payroll & Publication System
 
 // --- Core Implementation ---
 
