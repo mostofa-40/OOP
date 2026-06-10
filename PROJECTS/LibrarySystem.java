@@ -1,4 +1,4 @@
-// Problem 2: Library Book Management System
+// Library Book Management System
 
 // --- Core Implementation ---
 
