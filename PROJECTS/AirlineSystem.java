@@ -1,4 +1,4 @@
-// Problem 11 : Airline Reservation System
+// Airline Reservation System
 
 // --- Core Implementation ---
 
