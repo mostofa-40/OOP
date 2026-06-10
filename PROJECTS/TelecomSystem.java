@@ -1,4 +1,4 @@
-// Problem 14 : Telecommunication Subscriber Billing System
+// Telecommunication Subscriber Billing System
 
 // --- Core Implementation ---
 
