@@ -1,4 +1,4 @@
-// Problem 18 : Media Streaming Platform Subscription System
+// Media Streaming Platform Subscription System
 
 // --- Core Implementation ---
 
