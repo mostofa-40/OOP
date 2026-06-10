@@ -1,4 +1,4 @@
-// Problem 7 : Hospital Patient Management System
+// Hospital Patient Management System
 
 // --- Core Implementation ---
 
