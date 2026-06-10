@@ -1,4 +1,4 @@
-// Problem 9 : School Student Grade Management System
+// School Student Grade Management System
 
 // --- Core Implementation ---
 
