@@ -1,4 +1,4 @@
-// Problem 16 : Online Gaming Platform Ranking System
+// Online Gaming Platform Ranking System
 
 // --- Core Implementation ---
 
