@@ -1,4 +1,4 @@
-// Problem 10 : Smart Home Appliance Control System
+// Smart Home Appliance Control System
 
 // --- Core Implementation ---
 
