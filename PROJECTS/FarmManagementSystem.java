@@ -1,4 +1,4 @@
-// Problem 19 : Agricultural Farm Management & Yield System
+// Agricultural Farm Management & Yield System
 
 // --- Core Implementation ---
 
