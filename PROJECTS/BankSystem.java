@@ -1,4 +1,4 @@
-// Problem 1: Bank Account Management System
+// Bank Account Management System
 
 // --- Core Implementation ---
 
