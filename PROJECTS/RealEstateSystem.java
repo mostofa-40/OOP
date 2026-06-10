@@ -1,4 +1,4 @@
-// Problem 13 : Real Estate Property Listing System
+// Real Estate Property Listing System
 
 // --- Core Implementation ---
 
