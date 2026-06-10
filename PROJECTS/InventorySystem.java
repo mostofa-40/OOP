@@ -1,4 +1,4 @@
-// Problem 17 : Warehouse Inventory and Supply Chain System
+// Warehouse Inventory and Supply Chain System
 
 // --- Core Implementation ---
 
