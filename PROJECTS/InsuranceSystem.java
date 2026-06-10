@@ -1,4 +1,4 @@
-// Problem 12 : Insurance Policy Management System
+// Insurance Policy Management System
 
 // --- Core Implementation ---
 
