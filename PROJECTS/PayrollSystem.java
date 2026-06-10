@@ -1,4 +1,4 @@
-// Problem 3: Employee Payroll Processing System
+// Employee Payroll Processing System
 
 // --- Core Implementation ---
 
